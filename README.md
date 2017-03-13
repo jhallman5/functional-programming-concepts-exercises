@@ -29,13 +29,13 @@ Then, when you're ready to start:
 
 ## Specifications
 
-[] Read the Mostly Adequate Guide to Functional Programming through Chapter 8: Tupperware
-[] Exercises from the Mostly Adequate Guide are completed and included in the artifact repo
+- [] Read the Mostly Adequate Guide to Functional Programming through Chapter 8: Tupperware
+- [] Exercises from the Mostly Adequate Guide are completed and included in the artifact repo
   [] Chapter 4 Exercises completed and all tests are passing
   [] Chapter 5 Exercises completed and all tests are passing
   [] Chapter 8 Exercises completed and all tests are passing
-[] 5 Functional Programming katas from CodeWars are completed and added to the code-wars folder of your artifact repo
-[] The artifact produced is properly licensed, preferably with the MIT license.
+- [] 5 Functional Programming katas from CodeWars are completed and added to the code-wars folder of your artifact repo
+- [] The artifact produced is properly licensed, preferably with the MIT license.
 
 A just a heads up on CodeWars: you’re required to answer a couple of super basic JS questions to sign up for CodeWars, and you need to be signed up for the links to work.
 
