@@ -31,9 +31,9 @@ Then, when you're ready to start:
 
 - [] Read the Mostly Adequate Guide to Functional Programming through Chapter 8: Tupperware
 - [] Exercises from the Mostly Adequate Guide are completed and included in the artifact repo
-  [] Chapter 4 Exercises completed and all tests are passing
-  [] Chapter 5 Exercises completed and all tests are passing
-  [] Chapter 8 Exercises completed and all tests are passing
+  -[] Chapter 4 Exercises completed and all tests are passing
+  -[] Chapter 5 Exercises completed and all tests are passing
+  -[] Chapter 8 Exercises completed and all tests are passing
 - [] 5 Functional Programming katas from CodeWars are completed and added to the code-wars folder of your artifact repo
 - [] The artifact produced is properly licensed, preferably with the MIT license.
 
@@ -41,14 +41,13 @@ A just a heads up on CodeWars: you’re required to answer a couple of super bas
 
 ## Stretch
 
-[] Additional 5 katas from CodeWars are completed and added to your artifact repo
-[] Refactor a previous project to use functional programming patterns (strongly recommended to review the Mostly Adequate Guide before starting)
-[] Add links to your refactoring PRs in a refactoring.md file in your artifact repo
+- [] Additional 5 katas from CodeWars are completed and added to your artifact repo
+- [] Refactor a previous project to use functional programming patterns (strongly recommended to review the Mostly Adequate Guide before starting)
+- [] Add links to your refactoring PRs in a refactoring.md file in your artifact repo
 
 ## Quality Rubric
 
  * Clean code and commit messages
-
  * Code is well formatted with proper spacing and indentation. [30 points]
  * Descriptive, well-named functions, variables, files, etc. [40 points]
 
